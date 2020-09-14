@@ -1,5 +1,6 @@
 # vanilla-js-starter-pack
 This is a starter pack for building Vanilla JS apps. It has configurations set up for Webpack and includes linter files for linting.
+You can find a step-by-step guide on how to build this from scratch [here](https://medium.com/@krys2fa/bootstrapping-a-javascript-project-with-webpack-4ae0bc316c80).
 
 ## Getting Started
 
